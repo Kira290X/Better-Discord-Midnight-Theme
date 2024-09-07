@@ -1,0 +1,22 @@
+/**
+ * @name Better Discord Midnight
+ * @author Kira 290X
+ * @description Midnight is a sleek BetterDiscord theme featuring a deep black color palette for a modern, minimalist look. Perfect for users who prefer a clean, dark interface that’s easy on the eyes during extended use. Fully compatible with the latest BetterDiscord version and easily customizable.
+ * @version 1.0
+ * @source: https://github.com/Kira290X/Better-Discord-Midnight-Theme
+ */
+
+ :root {
+    --primary-530: rgb(0,0,0);
+    --primary-700: rgb(0,0,0);
+    --primary-600: rgb(0,0,0);
+    --background-accent: color-mix(in oklab, var(--primary-530) 100%);
+    --guild-notifications-bottom-sheet-pill-background: color-mix(in oklab, var(--primary-700) 100%);
+    --background-primary: color-mix(in oklab, var(--primary-600) 100%);
+    --background-secondary: color-mix(in oklab, var(--primary-600) 100%);
+    --channeltextarea-background:rgb(0,0,0,0);
+    .container_b2ca13 {
+        background-color: rgb(0, 0, 0);
+    }
+}
+
